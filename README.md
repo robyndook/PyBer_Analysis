@@ -3,9 +3,9 @@ Module 5: PyBer with Matplotlib
 ###### Project Overview
 Merging .cvs files to analyze ride-sharing data with graphs 
 ###### Resources
-city_data.csv
-PyBer_ride_data.cvs
-ride_data.cvs
+- city_data.csv
+- PyBer_ride_data.cvs
+- ride_data.cvs
 ###### Results
 **Analysis of Ride-Sharing Data for Different City Types**
 

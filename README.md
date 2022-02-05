@@ -9,12 +9,12 @@ ride_data.cvs
 ###### Results
 **Analysis of Ride-Sharing Data for Different City Types**
 
-![pyber_summary_df](https from github)
+![pyber_summary_df](https://github.com/robyndook/PyBer_Analysis/blob/a4aa2532944695510ece96da76b476390ad8bf13/Analysis/pyber_summary_df.PNG)
 
 - Rural and Suburban areas report more rides and a higher average fare due to limited drivers.
 - Urban areas report lower average fares because an abundance of drivers per ride.
 
-![pyber_summary](https from github)
+![pyber_summary](https://github.com/robyndook/PyBer_Analysis/blob/a4aa2532944695510ece96da76b476390ad8bf13/Analysis/Pyber_fare_summary.png)
 
 - The graph suggests a spike between February and March, possibly due to a Holiday or Event. 
 - Additional spike between March and April suggests special even in Urban areas
